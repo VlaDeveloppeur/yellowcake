@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/0881650c-76d3-4dcb-a34b-add52a63d73c/-/preview/-/enhance/100/
 subtitle: This is the contact page subtitle.
 address: 25 Rue de Saurupt, 54000 Nancy
 phone: 03 83 90 36 36
