@@ -7,10 +7,7 @@ subtitle: This is the contact page subtitle.
 address: 25 Rue de Saurupt, 54000 Nancy
 phone: 03 83 90 36 36
 email: contact@hayrapetyan.fr
-locations:
-  - lat: "48.68018845"
-    lng: "6.185692635506966"
-    mapLink: ""
+locations: []
 meta:
   description: This is a meta description.
   title: Contact Page
