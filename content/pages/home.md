@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
+slug: ""
 title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+featuredImage: https://ucarecdn.com/92b3f419-356d-4d6e-8466-428fbffebf4f/-/preview/-/enhance/100/
+subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
